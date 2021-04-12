@@ -9,7 +9,7 @@ Please checkout my other works over on:
 
 </br>
 
-<a href="https://web.archive.org/web/20200607110906/https://twitter.com/cathodegaytube/status/1269405917700710400"><img src="https://linuxgemini.space/poweredby.png" alt="Powered by Linux, Xenia says Trans Rights!" width="150" height="65" /></a>
+<a href="https://xenia-linux-site.glitch.me/"><img src="https://linuxgemini.space/poweredby.png" alt="Powered by Linux, Xenia says Trans Rights!" width="150" height="65" /></a>
 
 [gitlab]: https://gitlab.com/linuxgemini
 [cgit]: https://cgit.linuxgemini.space
