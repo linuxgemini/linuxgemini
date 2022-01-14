@@ -1,6 +1,6 @@
 # A part of linuxgemini's git ventures
 
-I am not actively pushing to this GitHub account anymore.
+<!-- I am not actively pushing to this GitHub account anymore. -->
 
 Please checkout my other works over on:
 
