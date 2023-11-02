@@ -2,7 +2,8 @@
 
 Please checkout my other works over on:
 
-  - My work profile while I was working at Trendyol: [@ilteriseroglu-ty][github-trendyol]
+  - My work profiles (former or current):
+    * [Trendyol](https://www.trendyol.com/whoweare) (former, 2021-2023): [@ilteriseroglu-ty][github-trendyol]
   - GitLab: [https://gitlab.com/linuxgemini][gitlab]
   - Personal git frontend: [https://cgit.linuxgemini.space][cgit]
 
