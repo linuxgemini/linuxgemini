@@ -4,6 +4,7 @@ Please checkout my other works over on:
 
   - My work profiles (former or current):
     * [Trendyol](https://www.trendyol.com/whoweare) (former, 2021-2023): [@ilteriseroglu-ty][github-trendyol]
+    * [Eclit](https://eclit.com) (current, 2024-): _account not yet created_
   - GitLab: [https://gitlab.com/linuxgemini][gitlab]
   - Personal git frontend: [https://cgit.linuxgemini.space][cgit]
 
